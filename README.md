@@ -1,2 +1,2 @@
 # JamelaJefferson
-My Personal Website
+Wireframe for Homework #1
